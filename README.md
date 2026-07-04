@@ -200,14 +200,14 @@ Implementations of classic AI search — Minimax, Alpha-Beta Pruning, BFS/DFS, A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranamuzammil272&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api?username=ranamuzammil272&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranamuzammil272&theme=merko&hide_border=true&background=0D1117" alt="GitHub Streak" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranamuzammil272&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+<img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=ranamuzammil272&layout=compact&theme=merko&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranamuzammil272&bg_color=0D1117&color=39D353&line=39D353&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity" width="100%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranamuzammil272&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%" />
+<img src="https://github-trophy.vercel.app/?username=ranamuzammil272&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" width="100%" />
 
 </div>
 
