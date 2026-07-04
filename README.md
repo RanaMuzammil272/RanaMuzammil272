@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" alt="Rana Muzammil Banner" width="100%"/>
+<img src="./banner.svg" alt="Rana Muzammil Banner" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=650&lines=Software+Engineer+%40+i2c;Enterprise+Java+%26+Backend+Developer;Full-Stack+MERN+Developer;AI+%2F+Generative+AI+Engineer;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" /></a>
 
