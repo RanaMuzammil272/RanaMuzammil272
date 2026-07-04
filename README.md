@@ -66,7 +66,7 @@ Working on enterprise-scale financial applications built with **Java**, **Apache
 **Backend & Enterprise**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,socketio" alt="Backend" />
-<br>
+
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-black?style=flat-square)
 ![Apache Struts](https://img.shields.io/badge/-Apache%20Struts-D22128?style=flat-square)
 ![Authentication](https://img.shields.io/badge/-Authentication-black?style=flat-square)
@@ -79,6 +79,7 @@ Working on enterprise-scale financial applications built with **Java**, **Apache
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql" alt="Databases" />
+
 ![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-black?style=flat-square)
 
 **AI / Machine Learning**
@@ -96,6 +97,7 @@ Working on enterprise-scale financial applications built with **Java**, **Apache
 **Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" alt="Tools" />
+
 ![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 <br>
